@@ -10,7 +10,7 @@ quiz = {
         "question": "What is the capital of France?",
         "answer": "Paris"
     },
-    "question2":{
+    "question2": {
         "question": "What is the capital of Germany?",
         "answer": "Berlin"
     },
@@ -22,7 +22,7 @@ quiz = {
         "question": "What is the capital of Spain?",
         "answer": "Madrid"
     },
-    "question5":{
+    "question5": {
         "question": "What is the capital of Portugal?",
         "answer": "Lisbon"
     },
